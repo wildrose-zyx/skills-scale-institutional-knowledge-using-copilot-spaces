@@ -1,0 +1,1 @@
+This branch adds a new top-level README for the docs/ folder summarizing OctoAcme project management processes and linking to the detailed process documents.
